@@ -1,1 +1,1 @@
-# Data_Survey_Table
+I used a data analysis survey I found online and used Power BI to make a dashboard of those answers. They were given by data science and data analyst professionals in their field and were asked basic information like where they were from and how hard did they find this technical field, how long it took them to adapt etc. 
